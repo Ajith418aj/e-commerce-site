@@ -1,0 +1,57 @@
+/*{
+	border:1px solid blue;*/
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.logo{
+	height:100px;
+	margin-top:10px;
+}
+.main-headings{
+	color:blue;
+}
+#soap-img{
+	margin-left:150px;
+	height:500px;
+	width:800px;
+}
+#slider img{
+	width:100%;
+	height:400px;
+
+}
+#slider-img{
+	margin-top:-20px;
+}
+.short-img{
+	height:200px;
+	width:80%;
+	margin-top:-19px;
+}
+.sidebar-head{
+	margin-top:-10px;
+	height:10px;
+	padding-left:20px;
+}
+.products{
+	margin-top: -15px;
+}
+.products-img img{
+	height:200px;
+	margin-left: -10px;
+
+}
+.products-img h4{
+	margin-left: 20px;
+}
+.soaps img{
+	height:250px;
+}
+.soaps h4{
+	margin-top: -10px;
+	margin-left: 20px;
+}
+.total{
+	background-color: #DCD1D1;
+}
